@@ -2,6 +2,10 @@
 
 ## Project Description
 The HR Dashboard is a dynamic, interactive Power BI dashboard designed to provide critical insights into an organization's workforce. It showcases key HR metrics such as employee demographics, promotion eligibility, job levels, tenure distribution, layoff rates, and more. This dashboard supports decision-making by highlighting areas for improvement and opportunities for better workforce management.
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFlNzViNDMtMDg3Mi00YzA4LWEyNjgtYzk3MjA1YTJmMWEzIiwidCI6Ijg5MDI1YjA2LWY2NTItNGM1Mi1hODEzLTgyNGU2YWIyZjVlNiJ9
+">View Live Interactive Dashboard</a>
+
 ________________________________________
 ## Objectives:
 1.	Analyze the composition of the workforce (e.g., gender, tenure, job level).
